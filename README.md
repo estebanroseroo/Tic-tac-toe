@@ -13,5 +13,5 @@ This game offers a variety of features to enhance your gaming experience. Player
 - **Themes**: Easily set up your preferred theme from a variety of options.
 - **Tutorial Video**: Watch the tutorial video to get started and learn how to play.
 
-## Instructions:
+## How to play:
 https://youtu.be/TgV_cagG_DA?feature=shared
